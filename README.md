@@ -38,3 +38,5 @@ Copyright 2013-2025 Signal Messenger, LLC
 Licensed under the GNU AGPLv3: https://www.gnu.org/licenses/agpl-3.0.html
 
 _Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc., registered in the U.S. and other countries._
+
+<!-- build 1 -->
